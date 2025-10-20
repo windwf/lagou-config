@@ -1,6 +1,7 @@
 mysql:
-  user: jetwu_
+  user: _jetwu_
 
 person:
 
-  name: yuanjing_
+  name: _yuanjing_
+
